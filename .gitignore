@@ -4,3 +4,4 @@ tmp/
 *_old
 *_backup
 *.DS_Store
+._.DS_Store
